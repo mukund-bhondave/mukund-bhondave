@@ -1,5 +1,3 @@
-[![MasterHead](https://dribbble.com/shots/5504725-Data-Analytics-Animation-Header)](https://mukund-bhondave.io)
-
  
 <h1 align="center">Hi 👋, I'm Mukund Bhondave</h1>
 <h3 align="center">Data Analyst</h3>
